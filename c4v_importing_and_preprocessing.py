@@ -46,7 +46,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Code to read csv file into Colaboratory:
-!pip install -U -q PyDrive
+# !pip install -U -q PyDrive
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 from google.colab import auth
