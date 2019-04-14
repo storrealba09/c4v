@@ -7,25 +7,25 @@ Original file is located at
     https://colab.research.google.com/drive/1p5ad-0WityuCAvtDhJm8iEQl90xqeH_h
 """
 
-# Enable outputting results interactively. 
-# All the results from code in a given cell will be displayed instead of only the last one.
+# # Enable outputting results interactively. 
+# # All the results from code in a given cell will be displayed instead of only the last one.
 
-from IPython.core.interactiveshell import InteractiveShell
-InteractiveShell.ast_node_interactivity = "all"
+# from IPython.core.interactiveshell import InteractiveShell
+# InteractiveShell.ast_node_interactivity = "all"
 
 # install spaCy packages and dependencies
 
 
-! pip install -U spacy
-! python -m spacy validate
+# ! pip install -U spacy
+# ! python -m spacy validate
 
-! pip install -U spacy[cuda92]
+# ! pip install -U spacy[cuda92]
 
-import spacy
+# import spacy
 
-spacy.prefer_gpu()
+# spacy.prefer_gpu()
 
-! python -m spacy download es_core_news_sm
+# ! python -m spacy download es_core_news_sm
 
 import es_core_news_sm
 nlp = es_core_news_sm.load()
