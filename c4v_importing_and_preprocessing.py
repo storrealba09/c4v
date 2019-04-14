@@ -151,18 +151,18 @@ df3.head(1)
 with open('tweets_nouns.json', 'w') as f:
   f.write(df3.to_json())
 
-# Download the file.
-from google.colab import files
-files.download('tweets_nouns.json')
+# # Download the file.
+# from google.colab import files
+# files.download('tweets_nouns.json')
 
 import pickle
 
 with open('tweets_nouns.pkl', 'wb') as f:
     pickle.dump(df3, f)
 
-# Download the file.
-from google.colab import files
-files.download('tweets_nouns.pkl')
+# # Download the file.
+# from google.colab import files
+# files.download('tweets_nouns.pkl')
 
 # import spacy
 # # nlp = spacy.load('es_core_news_sm')
