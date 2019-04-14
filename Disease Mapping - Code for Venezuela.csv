@@ -1,0 +1,99 @@
+Medicamento,Medicine,Clasificacion,Classification,Disease Treatment
+azitromicina,azithromycin,antibioticos,antibiotics,bacterial infections
+metronidazol,metronidazole,antibioticos,antibiotics,bacterial infections
+avelox,avelox,antibioticos,antibiotics,pneumonia
+moxifloxacina,moxifloxacin,antibioticos,antibiotics,bacterial infections
+invanz,invanz,antibioticos,antibiotics,bacterial infections
+ertapenem,ertapenem,antibioticos,antibiotics,bacterial infections
+ceftazidime,ceftazidime,antibioticos,antibiotics,bacterial infections
+meropenem,meropenem,antibioticos,antibiotics,meningitis
+unasyn,Unasyn,antibioticos,antibiotics,urogenital infections
+ampicilina,ampicillin,antibioticos,antibiotics,bacterial infections
+ampicilina/sulbactam,ampicillin sulbactam,antibioticos,antibiotics,bacterial infections
+nitrofurantoina,nitrofurantoin,antibioticos,antibiotics,bacterial infections
+rifampicina,rifampin,antibioticos,antibiotics,bacterial infections
+amoxacilina,amoxicillin,antibioticos,antibiotics,bacterial infections
+ciprofloxacina,ciprofloxacin,antibioticos,antibiotics,bacterial infections
+cefotaxime,cefotaxime,antibioticos,antibiotics,bacterial infections
+tygalcil,tygalcil,antibioticos,antibiotics,bacterial infections
+tigeciclina,tigecycline,antibioticos,antibiotics,bacterial infections
+dilantin,dilantin,neurologicos,neurologic,seizures
+dantoinal,dantoinal,neurologicos,neurologic,radicular dentin dysplasia
+keppra,keppra,neurologicos,neurologic,seizures
+kappodex,kapidex,neurologicos,neurologic,gastroesophageal reflux disease
+carbamazepina,carbamazepine,neurologicos,neurologic,seizures
+sinemet,sinemet,neurologicos,neurologic,parkinson's disease
+fenobarbital,phenobarbital,neurologicos,neurologic,insomnia
+somazina,somazina,neurologicos,neurologic,alzheimer's disease
+clonazepam,clonazepam,neurologicos,neurologic,bipolar disorder
+trileptal,trileptal,neurologicos,neurologic,bipolar disorder
+tegretol,Tegretol,neurologicos,neurologic,seizures
+lamotrigina,lamotrigine,neurologicos,neurologic,bipolar disorder
+valcote,valcote,neurologicos,neurologic,multiple myeloma
+zyprexa,zyprexa,neurologicos,neurologic,schizophrenia
+madopar,Madopar,neurologicos,neurologic,parkinson's disease
+sertraline,sertraline,neurologicos,neurologic,depression
+olanzapine,Olanzapine,neurologicos,neurologic,schizophrenia
+anafranil,Anafranil,neurologicos,neurologic,obsessive-compulsive disorder
+quetiapina,quetiapine,neurologicos,neurologic,bipolar disorder
+prednisona,prednisone,esteroides,steroids,arthritis
+hidrocortizona,hidrocortizona,esteroides,steroids,allergic reactions
+betagen,Betagen,esteroides,steroids,bacterial infections
+meticorten,meticorten,esteroides,steroids,allergic reactions
+diprospan,DIPROSPAN,esteroides,steroids,psoriasis
+dexametasona,dexamethasone,esteroides,steroids,arthritis
+deflazacort,deflazacort,esteroides,steroids,Duchenne muscular dystrophy
+oxicodal,oxicodal,analgesicos,analgesics,seizures
+ms contin,MS Contin,analgesicos,analgesics,pain treatment
+buscapina,Buscapina,analgesicos,analgesics,irritable bowel syndrome
+tramadol,tramadol,analgesicos,analgesics,pain treatment
+alevian,alevian,analgesicos,analgesics,gastroesophageal reflux disease
+adriamicina,adriamycin,oncologicos,oncologicos,cancer
+doxorrubicina,doxorubicin,oncologicos,oncologicos,cancer
+purinetol,Purinethol,oncologicos,oncologicos,cancer
+mercaptopurina,mercaptopurine,oncologicos,oncologicos,cancer
+mabthera,MabThera,oncologicos,oncologicos,cancer
+citarabina,cytarabine,oncologicos,oncologicos,cancer
+bleomicina,bleomycin,oncologicos,oncologicos,cancer
+eritropoyetina,erythropoietin,oncologicos,oncologicos,cancer
+ciclofosfamida,cyclophosphamide,oncologicos,oncologicos,cancer
+ara-c,ara-c,oncologicos,oncologicos,cancer
+sunitinib,sunitinib,oncologicos,oncologicos,cancer
+aspirina,aspirin,cardiologicos,cardiological,fever
+carvedilol,carvedilol,cardiologicos,cardiological,heart failure
+aprovel,Aprovel,cardiologicos,cardiological,diabetes
+hizzar,hizzar,cardiologicos,cardiological,cancer
+cormatic,cormatic,cardiologicos,cardiological,multiple sclerosis
+marcapaso,pacemaker,cardiologicos,cardiological,heart disease
+micardis,Micardis,cardiologicos,cardiological,hypertension
+adalat,adalat,cardiologicos,cardiological,hypertension
+nifedipina,nifedipine,cardiologicos,cardiological,hypertension
+losartan,losartan,cardiologicos,cardiological,hypertension
+irbesartan,irbesartan,cardiologicos,cardiological,diabetic nephropathy
+vytorin,vytorin,cardiologicos,cardiological,high cholesterol
+trangorex,trangorex,cardiologicos,cardiological,irregular heartbeat
+amiodarona,amiodarone,cardiologicos,cardiological,irregular heartbeat
+di eudrin,di eudrin,cardiologicos,cardiological,hypertension
+valsartan,valsartan,cardiologicos,cardiological,congestive heart failure
+ramipril,ramipril,cardiologicos,cardiological,hypertension
+olmesartan,olmesartan,cardiologicos,cardiological,hypertension
+amlodipina,amlodipine,cardiologicos,cardiological,hypertension
+natrilix,Natrilix,cardiologicos,cardiological,heart failure
+furosemida,furosemide,cardiologicos,cardiological,congestive heart failure
+xarelto,Xarelto,cardiologicos,cardiological,irregular heartbeat
+sinvastatina,simvastatin,cardiologicos,cardiological,high cholesterol
+exforge,Exforge,cardiologicos,cardiological,hypertension
+lasix,lasix,cardiologicos,cardiological,congestive heart failure
+nitroprusiato,nitroprusside,cardiologicos,cardiological,congestive heart failure
+gliperide,glimperide,metabolico_diabetes,metabolico_diabetes,diabetes
+metformina,metformin,metabolico_diabetes,metabolico_diabetes,diabetes
+insulina,insulin,metabolico_diabetes,metabolico_diabetes,diabetes
+janubia,janubia,metabolico_diabetes,metabolico_diabetes,diabetes
+galvus,Galvus,metabolico_diabetes,metabolico_diabetes,diabetes
+amaryl,Amaryl,metabolico_diabetes,metabolico_diabetes,diabetes
+apidra,apidra,metabolico_diabetes,metabolico_diabetes,diabetes
+dextrosa,dextrose,soluciones,solutions,hypoglycemia
+salina,saline,soluciones,solutions,dehydration
+donantes,donor,sangre,blood,blood loss
+donante,donor,sangre,blood,blood loss
+albumina,albumin,albumina,albumin,hypoalbuminemia
